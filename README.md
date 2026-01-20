@@ -41,8 +41,8 @@ A high-performance, design-driven personal portfolio website built with **Next.j
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/harshu0001/portfolio.git
-   cd portfolio
+   git clone https://github.com/harshu0001/profile.git
+   cd profile
    ```
 
 2. **Install dependencies:**
